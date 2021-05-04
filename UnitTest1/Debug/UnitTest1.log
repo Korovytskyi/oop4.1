@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+     Creating library E:\pr\4.1\Debug\UnitTest1.lib and object E:\pr\4.1\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: unresolved external symbol "public: __thiscall Figure::Figure(int)" (??0Figure@@QAE@H@Z) referenced in function "public: __thiscall Trapeze::Trapeze(int,int,int,int)" (??0Trapeze@@QAE@HHHH@Z)
+E:\pr\4.1\Debug\UnitTest1.dll : fatal error LNK1120: 1 unresolved externals
